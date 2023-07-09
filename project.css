@@ -1,0 +1,144 @@
+*{
+    margin:0;
+    padding:0;
+ }
+ body {
+    width:100%;
+ }
+.container{
+    width: 1440px;
+height: 592px;
+top: -1px;
+background-color:#FFCD9E;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.container2{
+    
+        width: 1440px;
+    height: 298px;
+    top: 592px;
+    background-color: black;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    display: flex;
+    justify-content: space-between;   
+}
+
+.first{
+    
+        padding-left: 110px;
+}
+.second{
+    padding-right: 200px;
+    text-align: end;
+    padding-left: 250px;
+}
+
+ul{
+    list-style-type: none;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    padding-left: 100px;
+    margin-top: 50px;
+}
+
+.content2{
+    color: #282828;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%;
+padding-top: 20px;
+padding-left: 134px;
+margin-top:50px;
+}
+.content3{
+    color: #484848;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 160%;
+padding-bottom: 50px;
+margin-right: 809px;
+margin-left: 136px;
+margin-top: 20px;
+}
+.content4{
+    color: #282828;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: 160%;
+padding-bottom: 25px;
+padding-left: 136px;
+}
+.mail{
+    border-radius: 8px;
+    border: 4px solid #000;
+    background: #FFF;
+    font-size: 20px;
+    width: 270px;
+height: 64px;
+flex-shrink: 0;
+padding-left:20px;
+margin-bottom: 85px;
+margin-left: 136px;
+margin-top: 15px;
+}
+.reg{
+    color:#FFFFFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+    border-radius: 10px;
+    border: 4px solid black;
+    background-color:black;
+    padding:18px;
+    margin-left:15px;
+    width: 200px;
+height: 74px;
+}
+.free{
+    color: #FFF;
+text-align: start;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 20%;
+margin-left: 160px;
+margin-bottom: 800px;
+padding-bottom: 100px;
+padding-top: -100px;
+margin-top: -70px;
+}
+
+.image1{
+    text-align: right;
+    position: relative;
+}
+
+.image1 img{
+    position:absolute;
+    top:0;
+    right:0;
+    margin-left: 818px;
+    margin-right: 60px;
+}
+
